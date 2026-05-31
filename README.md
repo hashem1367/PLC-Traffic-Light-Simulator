@@ -18,16 +18,17 @@ PLC traffic light intersection simulator developed in CODESYS using Structured T
 * TON Timers
 * CASE-based State Machine
 
-## Screenshots
+### Traffic Light Intersection
 
-### Main Visualization
+![Traffic Light](traffic-light-intersection.png)
 
-![Traffic Light](TrafficLight1.png)
+### Traffic Light Transition Mode
 
-### Operation
+![Traffic Light](traffic_light_transition_mode.png)
 
-![Traffic Light](TrafficLight2.png)
+### Pedestrian Crossing Activated
 
+![Traffic Light](pedestrian_crossing_activated.png)
 ## Future Improvements
 
 * Multiple intersections
